@@ -1,11 +1,4 @@
 /* MOS Technology 6502 CPU Emulator
-  ____    ____    ___ ___     ___
- / __ \  / ___\  / __` __`\  / __`\
-/\ \/  \/\ \__/_/\ \/\ \/\ \/\  __/
-\ \__/\_\ \_____\ \_\ \_\ \_\ \____\
- \/_/\/_/\/_____/\/_/\/_/\/_/\/____/
-Copyright © 1999-2016 Manuel Sainz de Baranda y Goñi.
-Released under the terms of the GNU General Public License v3. */
 
 #define DEFINED(WHAT) (defined CPU_6502_##WHAT)
 
